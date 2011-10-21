@@ -1,0 +1,13 @@
+Dance [ctf_dance]
+maps/dance
+
+Not so treacherous space map, with a dance floor.  
+
+Players: 2-18
+
+Weapons: All but crylink.
+
+Gametype: CTF
+
+Author: dublpaws
+mapurl: http://dublpaws.googlepages.com/dance

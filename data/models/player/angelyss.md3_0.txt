@@ -1,0 +1,10 @@
+Angelyss
+models/player/angelyss
+0
+models/player/angelyss.md3
+
+Valkryie
+
+Sex: Female
+Weight: 140 lb
+Age: 24

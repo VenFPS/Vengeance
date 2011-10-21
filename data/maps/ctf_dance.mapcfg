@@ -1,0 +1,7 @@
+set sv_gravity 800
+set sv_accelerate 5.5
+set fraglimit 300
+set timelimit 20
+set g_ctf 1
+changelevel ctf_dance
+

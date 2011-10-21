@@ -1,0 +1,10 @@
+title <TITLE>
+description <DESCRIPTION>
+author <AUTHOR>
+_diameter 2978.063721
+_spawnpoints 5
+has weapons
+type ctf 300 20
+type dm 30 20
+type lms 9 20
+type arena 10 20

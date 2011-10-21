@@ -1,0 +1,6 @@
+name Nexus
+species Aliensex Male
+weight 250
+age 86
+
+Heavyweight  Solider
