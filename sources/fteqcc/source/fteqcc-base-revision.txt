@@ -1,0 +1,6 @@
+commit bb8ceb9870af06104b67ae4cc2ec29552dce705b
+Merge: bc22b87 770b5cf
+Author: Wolfgang (Blub) Bumiller <blub@speed.at>
+Date:   Fri Sep 18 20:40:09 2009 +0200
+
+    Merge branch 'master' into nexuiz
